@@ -6,14 +6,14 @@ const productData = [
     name: "Laptop Pro",
     description: "High-performance laptop for professionals.",
     price: 1200,
-    photoName: "/laptop.png",
+    photoName: "firstPageReact/laptop.png",
     soldOut: false,
   },
   {
     name: "Smartphone X",
     description: "Latest model with stunning display.",
     price: 800,
-    photoName: "/smartphone.png",
+    photoName: "public/smartphone.png",
     soldOut: false,
   },
   {
