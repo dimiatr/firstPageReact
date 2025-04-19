@@ -13,7 +13,7 @@ const productData = [
     name: "Smartphone X",
     description: "Latest model with stunning display.",
     price: 800,
-    photoName: "/public/smartphone.png",
+    photoName: "smartphone.png",
     soldOut: false,
   },
   {
